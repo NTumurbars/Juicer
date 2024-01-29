@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Juicer</string>
+    <string name="screen1">Tap the orange tree to select an orange</string>
+    <string name="screen2">Keep tapping the orange to squeeze it</string>
+    <string name="screen3">Tap the orange juice to drink it</string>
+    <string name="screen4">Tap the empty glass to start again</string>
+
+</resources>
